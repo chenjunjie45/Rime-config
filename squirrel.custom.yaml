@@ -1,0 +1,33 @@
+patch:
+  app_options/com.googlecode.iterm2:
+    ascii_mode: true
+  app_options/com.vandyke.SecureCRT:
+    ascii_mode: true
+  app_options/com.raycast.macos:
+    ascii_mode: true
+  app_options/com.apple.finder:
+    ascii_mode: true
+  app_options/com.apple.launchpad.launcher:
+    ascii_mode: true
+  app_options/com.apple.Terminal:
+    ascii_mode: true
+  app_options/com.jetbrains.pycharm:
+    ascii_mode: true
+  app_options/com.jetbrains.intellij:
+    ascii_mode: true
+  app_options/com.apple.ScriptEditor2:
+    ascii_mode: true
+  app_options/com.apple.systempreferences:
+    ascii_mode: true
+  app_options/com.sublimetext.4:
+    ascii_mode: true
+  app_options/com.microsoft.VSCode:
+    ascii_mode: true
+  app_options/com.fatcatsoftware.pledpro:
+    ascii_mode: true
+  app_options/com.jetbrains.goland:
+    ascii_mode: true
+  app_options/com.navicat.NavicatPremium:
+    ascii_mode: true
+  app_options/org.jkiss.dbeaver.core.product:
+    ascii_mode: true
