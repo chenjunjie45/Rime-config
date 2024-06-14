@@ -1,12 +1,12 @@
 __build_info:
   rime_version: 1.11.2
   timestamps:
-    default: 1718296266
+    default: 1718385373
     default.custom: 0
-    symbols: 1718296266
+    symbols: 1718385373
     symbols.custom: 0
     terra_pinyin.custom: 0
-    terra_pinyin.schema: 1718296266
+    terra_pinyin.schema: 1718385373
 chineseLunarCalendar_translator: lunar
 codeLengthLimit_processor: 25
 custom_phrase:

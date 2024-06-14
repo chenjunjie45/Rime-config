@@ -1,11 +1,11 @@
 __build_info:
   rime_version: 1.11.2
   timestamps:
-    default: 1718296266
+    default: 1718385373
     default.custom: 0
     double_pinyin_flypy.custom: 0
-    double_pinyin_flypy.schema: 1718296266
-    symbols: 1718296266
+    double_pinyin_flypy.schema: 1718385373
+    symbols: 1718385373
     symbols.custom: 0
 axu_code:
   show_aux_notice: trigger

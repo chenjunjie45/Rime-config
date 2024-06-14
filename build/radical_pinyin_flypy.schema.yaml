@@ -1,10 +1,10 @@
 __build_info:
   rime_version: 1.11.2
   timestamps:
-    default: 1718296266
+    default: 1718385373
     default.custom: 0
     radical_pinyin_flypy.custom: 0
-    radical_pinyin_flypy.schema: 1718296266
+    radical_pinyin_flypy.schema: 1718385373
 engine:
   processors:
     - ascii_composer

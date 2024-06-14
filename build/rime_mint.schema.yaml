@@ -1,11 +1,11 @@
 __build_info:
   rime_version: 1.11.2
   timestamps:
-    default: 1718296266
+    default: 1718385373
     default.custom: 0
-    rime_mint.custom: 1718301238
-    rime_mint.schema: 1718296266
-    symbols: 1718296266
+    rime_mint.custom: 1718385373
+    rime_mint.schema: 1718385373
+    symbols: 1718385373
     symbols.custom: 0
 chineseLunarCalendar_translator: lunar
 cn_en:

@@ -31,3 +31,8 @@ patch:
     ascii_mode: true
   app_options/org.jkiss.dbeaver.core.product:
     ascii_mode: true
+  app_options/com.nektony.App-Cleaner-SIII:
+    ascii_mode: true
+  app_options/com.jinghaoshe.qspace.pro:
+    ascii_mode: true
+

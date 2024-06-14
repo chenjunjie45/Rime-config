@@ -1,8 +1,8 @@
 __build_info:
   rime_version: 1.11.2
   timestamps:
-    squirrel: 1718296266
-    squirrel.custom: 1718301557
+    squirrel: 1718385373
+    squirrel.custom: 1718385525
 app_options:
   com.apple.ScriptEditor2:
     ascii_mode: true
@@ -24,9 +24,13 @@ app_options:
     ascii_mode: true
   com.jetbrains.pycharm:
     ascii_mode: true
+  com.jinghaoshe.qspace.pro:
+    ascii_mode: true
   com.microsoft.VSCode:
     ascii_mode: true
   com.navicat.NavicatPremium:
+    ascii_mode: true
+  "com.nektony.App-Cleaner-SIII":
     ascii_mode: true
   com.raycast.macos:
     ascii_mode: true

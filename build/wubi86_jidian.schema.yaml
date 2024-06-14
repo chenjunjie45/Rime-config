@@ -1,10 +1,10 @@
 __build_info:
   rime_version: 1.11.2
   timestamps:
-    default: 1718296266
+    default: 1718385373
     default.custom: 0
     wubi86_jidian.custom: 0
-    wubi86_jidian.schema: 1718296266
+    wubi86_jidian.schema: 1718385373
 chineseLunarCalendar_translator: lunar
 emoji_suggestion:
   inherit_comment: false
